@@ -105,15 +105,15 @@
   color: var(--dl-color-scheme-green80);
   margin-right: var(--dl-space-space-twounits);
 }
-.home-text01 {
+.home-text001 {
   color: var(--dl-color-scheme-green80);
   margin-right: var(--dl-space-space-twounits);
 }
-.home-text02 {
+.home-text002 {
   color: var(--dl-color-scheme-green80);
   margin-right: var(--dl-space-space-twounits);
 }
-.home-text03 {
+.home-text003 {
   color: var(--dl-color-scheme-green80);
   margin-right: var(--dl-space-space-twounits);
 }
@@ -148,7 +148,10 @@
   line-height: 1.2;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.home-text09 {
+.home-text009 {
+  color: var(--dl-color-scheme-lightgreen);
+}
+.home-text011 {
   color: var(--dl-color-scheme-lightgreen);
 }
 .home-description {
@@ -229,11 +232,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text10 {
+.home-text012 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text11 {
+.home-text013 {
   font-size: 42px;
   font-style: normal;
   font-family: Urbanist;
@@ -241,20 +244,20 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.home-text12 {
+.home-text014 {
   font-family: Urbanist;
 }
-.home-text13 {
+.home-text015 {
   color: var(--dl-color-scheme-orange100);
   font-family: Urbanist;
 }
-.home-text14 {
+.home-text016 {
   font-family: Urbanist;
 }
-.home-text15 {
+.home-text017 {
   font-family: Urbanist;
 }
-.home-text16 {
+.home-text018 {
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-threeunits);
@@ -279,11 +282,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text17 {
+.home-text019 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text18 {
+.home-text020 {
   font-size: 42px;
   font-style: normal;
   font-family: Urbanist;
@@ -291,14 +294,14 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.home-text19 {
+.home-text021 {
   color: var(--dl-color-scheme-orange100);
   font-family: Urbanist;
 }
-.home-text21 {
+.home-text023 {
   font-family: Urbanist;
 }
-.home-text22 {
+.home-text024 {
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-threeunits);
@@ -338,11 +341,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text23 {
+.home-text025 {
   color: var(--dl-color-scheme-white);
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text24 {
+.home-text026 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -368,7 +371,7 @@
   justify-content: center;
   background-color: var(--dl-color-scheme-orange100);
 }
-.home-text25 {
+.home-text027 {
   font-size: 28px;
   font-style: normal;
   font-family: Urbanist;
@@ -390,7 +393,7 @@
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text26 {
+.home-text028 {
   color: var(--dl-color-scheme-white);
   line-height: 1.5;
 }
@@ -411,7 +414,7 @@
   justify-content: center;
   background-color: var(--dl-color-scheme-orange100);
 }
-.home-text27 {
+.home-text029 {
   font-size: 28px;
   font-style: normal;
   font-family: Urbanist;
@@ -433,7 +436,7 @@
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text28 {
+.home-text030 {
   color: var(--dl-color-scheme-white);
   line-height: 1.5;
 }
@@ -453,7 +456,7 @@
   justify-content: center;
   background-color: var(--dl-color-scheme-orange100);
 }
-.home-text29 {
+.home-text031 {
   font-size: 28px;
   font-style: normal;
   font-family: Urbanist;
@@ -475,7 +478,7 @@
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text30 {
+.home-text032 {
   color: var(--dl-color-scheme-white);
   line-height: 1.5;
 }
@@ -484,11 +487,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text31 {
+.home-text033 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text32 {
+.home-text034 {
   font-size: 42px;
   font-style: normal;
   text-align: center;
@@ -529,11 +532,11 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.home-text35 {
+.home-text037 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text36 {
+.home-text038 {
   font-size: 42px;
   font-style: normal;
   font-family: Urbanist;
@@ -541,10 +544,10 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.home-text37 {
+.home-text039 {
   font-family: Urbanist;
 }
-.home-text39 {
+.home-text041 {
   color: var(--dl-color-scheme-orange100);
   font-family: Urbanist;
 }
@@ -554,7 +557,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.home-text40 {
+.home-text042 {
   font-size: 20px;
   font-style: normal;
   font-family: Urbanist;
@@ -565,7 +568,7 @@
   width: 12px;
   height: 12px;
 }
-.home-text41 {
+.home-text043 {
   margin-top: 8px;
 }
 .home-trigger1 {
@@ -574,7 +577,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.home-text42 {
+.home-text044 {
   font-size: 20px;
   font-style: normal;
   font-family: Urbanist;
@@ -585,7 +588,7 @@
   width: 12px;
   height: 12px;
 }
-.home-text43 {
+.home-text045 {
   margin-top: 8px;
 }
 .home-trigger2 {
@@ -594,7 +597,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.home-text44 {
+.home-text046 {
   font-size: 20px;
   font-style: normal;
   font-family: Urbanist;
@@ -605,7 +608,7 @@
   width: 12px;
   height: 12px;
 }
-.home-text45 {
+.home-text047 {
   margin-top: 8px;
 }
 .home-trigger3 {
@@ -614,7 +617,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.home-text46 {
+.home-text048 {
   font-size: 20px;
   font-style: normal;
   font-family: Urbanist;
@@ -625,7 +628,7 @@
   width: 12px;
   height: 12px;
 }
-.home-text47 {
+.home-text049 {
   margin-top: 8px;
 }
 .home-image6 {
@@ -644,11 +647,11 @@
   background-size: cover;
   background-image: url("public/playground_assets/group%2011-1200w.png");
 }
-.home-text48 {
+.home-text050 {
   color: var(--dl-color-scheme-lightgreen);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text49 {
+.home-text051 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -658,7 +661,7 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.home-text55 {
+.home-text057 {
   color: rgba(255, 255, 255, 0.6);
   text-align: center;
   margin-bottom: var(--dl-space-space-twounits);
@@ -710,103 +713,103 @@
   flex-direction: row;
   justify-content: space-between;
 }
-.home-text59 {
+.home-text061 {
   font-weight: 700;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.home-text60 {
+.home-text062 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text61 {
+.home-text063 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text62 {
+.home-text064 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text63 {
+.home-text065 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text65 {
+.home-text067 {
   font-weight: 700;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.home-text66 {
+.home-text068 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text67 {
+.home-text069 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text68 {
+.home-text070 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text69 {
+.home-text071 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text71 {
+.home-text073 {
   font-weight: 700;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.home-text72 {
+.home-text074 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text73 {
+.home-text075 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text74 {
+.home-text076 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text75 {
+.home-text077 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text76 {
+.home-text078 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text78 {
+.home-text080 {
   font-weight: 700;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.home-text79 {
+.home-text081 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text80 {
+.home-text082 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text81 {
+.home-text083 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text84 {
+.home-text086 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text87 {
+.home-text089 {
   font-weight: 700;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.home-text88 {
+.home-text090 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text89 {
+.home-text091 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text90 {
+.home-text092 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text92 {
+.home-text094 {
   font-weight: 700;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.home-text93 {
+.home-text095 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text94 {
+.home-text096 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text95 {
+.home-text097 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text96 {
+.home-text098 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text97 {
+.home-text099 {
   margin-bottom: var(--dl-space-space-unit);
 }
 @media(max-width: 991px) {
