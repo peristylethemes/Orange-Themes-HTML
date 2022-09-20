@@ -115,8 +115,8 @@
   padding-bottom: var(--dl-space-space-halfunit);
 }
 .home-max-width {
-  padding-top: var(--dl-space-space-unit);
-  padding-bottom: var(--dl-space-space-unit);
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 .home-image {
   flex: 0;
