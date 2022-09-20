@@ -117,7 +117,7 @@
 .home-image {
   flex: 0;
   width: var(--dl-size-size-xlarge);
-  height: var(--dl-size-size-small);
+  height: 34px;
   align-self: center;
   object-fit: cover;
   text-decoration: none;
