@@ -130,6 +130,7 @@
 .themes-text {
   color: var(--dl-color-scheme-green80);
   margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
 }
 .themes-text001 {
   color: var(--dl-color-scheme-green80);
@@ -174,10 +175,10 @@
   line-height: 1.2;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.themes-text009 {
+.themes-text010 {
   color: var(--dl-color-scheme-lightgreen);
 }
-.themes-text011 {
+.themes-text012 {
   color: var(--dl-color-scheme-lightgreen);
 }
 .themes-description {
@@ -258,11 +259,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.themes-text012 {
+.themes-text013 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text013 {
+.themes-text014 {
   font-size: 42px;
   font-style: normal;
   font-family: Urbanist;
@@ -270,10 +271,10 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.themes-text015 {
+.themes-text016 {
   color: var(--dl-color-scheme-orange100);
 }
-.themes-text016 {
+.themes-text017 {
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-threeunits);
@@ -298,11 +299,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.themes-text017 {
+.themes-text018 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text018 {
+.themes-text019 {
   font-size: 42px;
   font-style: normal;
   font-family: Urbanist;
@@ -310,14 +311,14 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.themes-text019 {
+.themes-text020 {
   color: var(--dl-color-scheme-orange100);
   font-family: Urbanist;
 }
-.themes-text021 {
+.themes-text022 {
   font-family: Urbanist;
 }
-.themes-text022 {
+.themes-text023 {
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-threeunits);
@@ -358,11 +359,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.themes-text023 {
+.themes-text024 {
   color: var(--dl-color-scheme-white);
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text024 {
+.themes-text025 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -388,7 +389,7 @@
   justify-content: center;
   background-color: var(--dl-color-scheme-orange100);
 }
-.themes-text025 {
+.themes-text026 {
   font-size: 28px;
   font-style: normal;
   font-family: Urbanist;
@@ -410,7 +411,7 @@
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.themes-text026 {
+.themes-text027 {
   color: var(--dl-color-scheme-white);
   line-height: 1.5;
 }
@@ -431,7 +432,7 @@
   justify-content: center;
   background-color: var(--dl-color-scheme-orange100);
 }
-.themes-text027 {
+.themes-text028 {
   font-size: 28px;
   font-style: normal;
   font-family: Urbanist;
@@ -453,7 +454,7 @@
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.themes-text028 {
+.themes-text029 {
   color: var(--dl-color-scheme-white);
   line-height: 1.5;
 }
@@ -473,7 +474,7 @@
   justify-content: center;
   background-color: var(--dl-color-scheme-orange100);
 }
-.themes-text029 {
+.themes-text030 {
   font-size: 28px;
   font-style: normal;
   font-family: Urbanist;
@@ -495,7 +496,7 @@
   line-height: 1.5;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.themes-text030 {
+.themes-text031 {
   color: var(--dl-color-scheme-white);
   line-height: 1.5;
 }
@@ -504,11 +505,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.themes-text031 {
+.themes-text032 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.themes-text032 {
+.themes-text033 {
   font-size: 42px;
   font-style: normal;
   text-align: center;
@@ -567,11 +568,11 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.themes-text035 {
+.themes-text036 {
   color: var(--dl-color-scheme-green80);
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text036 {
+.themes-text037 {
   font-size: 42px;
   font-style: normal;
   font-family: Urbanist;
@@ -579,10 +580,10 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-twounits);
 }
-.themes-text037 {
+.themes-text038 {
   font-family: Urbanist;
 }
-.themes-text039 {
+.themes-text040 {
   color: var(--dl-color-scheme-orange100);
   font-family: Urbanist;
 }
@@ -592,7 +593,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.themes-text040 {
+.themes-text041 {
   font-size: 20px;
   font-style: normal;
   font-family: Urbanist;
@@ -603,7 +604,7 @@
   width: 12px;
   height: 12px;
 }
-.themes-text041 {
+.themes-text042 {
   margin-top: 8px;
 }
 .themes-trigger1 {
@@ -612,7 +613,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.themes-text042 {
+.themes-text043 {
   font-size: 20px;
   font-style: normal;
   font-family: Urbanist;
@@ -623,7 +624,7 @@
   width: 12px;
   height: 12px;
 }
-.themes-text043 {
+.themes-text044 {
   margin-top: 8px;
 }
 .themes-trigger2 {
@@ -632,7 +633,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.themes-text044 {
+.themes-text045 {
   font-size: 20px;
   font-style: normal;
   font-family: Urbanist;
@@ -643,7 +644,7 @@
   width: 12px;
   height: 12px;
 }
-.themes-text045 {
+.themes-text046 {
   margin-top: 8px;
 }
 .themes-trigger3 {
@@ -652,7 +653,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.themes-text046 {
+.themes-text047 {
   font-size: 20px;
   font-style: normal;
   font-family: Urbanist;
@@ -663,7 +664,7 @@
   width: 12px;
   height: 12px;
 }
-.themes-text047 {
+.themes-text048 {
   margin-top: 8px;
 }
 .themes-image5 {
@@ -682,11 +683,11 @@
   background-size: cover;
   background-image: url("public/playground_assets/group%2011-1200w.png");
 }
-.themes-text048 {
+.themes-text049 {
   color: var(--dl-color-scheme-lightgreen);
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.themes-text049 {
+.themes-text050 {
   color: var(--dl-color-scheme-white);
   font-size: 42px;
   font-style: normal;
@@ -696,7 +697,7 @@
   line-height: 1.25;
   margin-bottom: var(--dl-space-space-halfunit);
 }
-.themes-text055 {
+.themes-text056 {
   color: rgba(255, 255, 255, 0.6);
   text-align: center;
   margin-bottom: var(--dl-space-space-twounits);
@@ -748,12 +749,9 @@
   flex-direction: row;
   justify-content: space-between;
 }
-.themes-text059 {
+.themes-text060 {
   font-weight: 700;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
-}
-.themes-text060 {
-  margin-bottom: var(--dl-space-space-unit);
 }
 .themes-text061 {
   margin-bottom: var(--dl-space-space-unit);
@@ -764,12 +762,12 @@
 .themes-text063 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text065 {
-  font-weight: 700;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
+.themes-text064 {
+  margin-bottom: var(--dl-space-space-unit);
 }
 .themes-text066 {
-  margin-bottom: var(--dl-space-space-unit);
+  font-weight: 700;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
 .themes-text067 {
   margin-bottom: var(--dl-space-space-unit);
@@ -780,12 +778,12 @@
 .themes-text069 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text071 {
-  font-weight: 700;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
+.themes-text070 {
+  margin-bottom: var(--dl-space-space-unit);
 }
 .themes-text072 {
-  margin-bottom: var(--dl-space-space-unit);
+  font-weight: 700;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
 .themes-text073 {
   margin-bottom: var(--dl-space-space-unit);
@@ -799,12 +797,12 @@
 .themes-text076 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text078 {
-  font-weight: 700;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
+.themes-text077 {
+  margin-bottom: var(--dl-space-space-unit);
 }
 .themes-text079 {
-  margin-bottom: var(--dl-space-space-unit);
+  font-weight: 700;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
 .themes-text080 {
   margin-bottom: var(--dl-space-space-unit);
@@ -812,15 +810,15 @@
 .themes-text081 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text084 {
+.themes-text082 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text087 {
-  font-weight: 700;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
+.themes-text085 {
+  margin-bottom: var(--dl-space-space-unit);
 }
 .themes-text088 {
-  margin-bottom: var(--dl-space-space-unit);
+  font-weight: 700;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
 .themes-text089 {
   margin-bottom: var(--dl-space-space-unit);
@@ -828,12 +826,12 @@
 .themes-text090 {
   margin-bottom: var(--dl-space-space-unit);
 }
-.themes-text092 {
-  font-weight: 700;
-  margin-bottom: var(--dl-space-space-oneandhalfunits);
+.themes-text091 {
+  margin-bottom: var(--dl-space-space-unit);
 }
 .themes-text093 {
-  margin-bottom: var(--dl-space-space-unit);
+  font-weight: 700;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
 .themes-text094 {
   margin-bottom: var(--dl-space-space-unit);
@@ -845,6 +843,9 @@
   margin-bottom: var(--dl-space-space-unit);
 }
 .themes-text097 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.themes-text098 {
   margin-bottom: var(--dl-space-space-unit);
 }
 @media(max-width: 991px) {
