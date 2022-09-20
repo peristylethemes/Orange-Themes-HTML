@@ -38,11 +38,11 @@
 }
 .card-root-class-name {
   background-size: cover;
-  background-image: url("public/playground_assets/unsplash-image1-200h.jpeg");
+  background-image: url('https://cdn.shopify.com/s/files/1/0661/1841/8687/products/custom_resized_27801cd8-2de5-4ecc-9c54-5258ad27dfc0.png?v=1663467233&width=720');
 }
 .card-root-class-name1 {
   background-size: cover;
-  background-image: url("public/playground_assets/unsplash-image2-200h.jpeg");
+  background-image: url('https://cdn.shopify.com/s/files/1/0661/1841/8687/products/custom_resized_27801cd8-2de5-4ecc-9c54-5258ad27dfc0.png?v=1663467233&width=720');
 }
 .card-root-class-name2 {
   background-size: cover;
@@ -63,11 +63,11 @@
 }
 .card-root-class-name7 {
   background-size: cover;
-  background-image: url("public/playground_assets/unsplash-image1-200h.jpeg");
+  background-image: f15a36ac-4f8a-419b-a5fc-65ae4c0e1e76;
 }
 .card-root-class-name8 {
   background-size: cover;
-  background-image: url("public/playground_assets/unsplash-image2-200h.jpeg");
+  background-image: 874be396-29d3-4e15-a09a-3a2f6d56b9ea;
 }
 @media(max-width: 767px) {
   .card-card {
