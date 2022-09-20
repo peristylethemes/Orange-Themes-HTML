@@ -110,7 +110,7 @@
   flex-direction: column;
 }
 .home-navbar {
-  height: 72px;
+  height: 80px;
   padding-top: var(--dl-space-space-halfunit);
   padding-bottom: var(--dl-space-space-halfunit);
 }
