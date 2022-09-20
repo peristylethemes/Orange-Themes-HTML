@@ -120,6 +120,7 @@
   height: var(--dl-size-size-small);
   align-self: center;
   object-fit: cover;
+  text-decoration: none;
 }
 .home-links {
   flex: 0 0 auto;
@@ -130,6 +131,7 @@
 .home-text {
   color: var(--dl-color-scheme-green80);
   margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
 }
 .home-text001 {
   color: var(--dl-color-scheme-green80);

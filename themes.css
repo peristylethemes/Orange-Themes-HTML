@@ -120,6 +120,7 @@
   height: var(--dl-size-size-small);
   align-self: center;
   object-fit: cover;
+  text-decoration: none;
 }
 .themes-links {
   flex: 0 0 auto;
@@ -148,6 +149,15 @@
   fill: #105749;
   width: 24px;
   height: 24px;
+}
+.themes-text004 {
+  color: var(--dl-color-scheme-green80);
+  width: 100%;
+  align-self: center;
+  text-align: center;
+  padding-top: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-oneandhalfunits);
+  background-color: var(--dl-color-scheme-yellow20);
 }
 .themes-max-width1 {
   align-self: center;
